@@ -1,0 +1,26 @@
+.buttons
+{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin: 10px;
+    width: 60%;
+    border: 2px solid black;
+}
+
+
+.buttons:hover
+{
+
+    margin: 10px;
+    background-color: gray;
+}
+
+.buttons:active{
+    background-color: red;
+}
+
+.equals{
+    margin: 10px;
+    width: 160%;
+}
